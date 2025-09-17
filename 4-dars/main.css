@@ -1,0 +1,9 @@
+h2{
+    text-decoration: underline;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+#p{
+   line-height: 2.0px; 
+   font-weight: bold;
+}

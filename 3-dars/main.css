@@ -1,0 +1,50 @@
+/* nomi bilan
+p{
+    color: red;
+} */
+
+/* hex kodi bilan 
+ p {
+    color: 00ff00;
+} */
+
+
+ /* rgb bilan
+ p{ 
+    color: rgb(0, 0, 255);
+ } */
+
+
+   /* rgba bilan
+ p{
+    color: rgb(255, 0, 0, 0.5 );
+ } */
+
+  /* hsl orqali
+ p{
+    color: hsl(200, 100%, 50%);
+ } */
+
+
+
+ .bir{
+    background-color: red;
+ }
+ .ikki{
+    background-image: url("./Skrinshot\ 2025-09-16\ 211128.png");
+ }
+ .uch{
+    background: radial-gradient(red, blue, black,);
+ }
+ p{
+    color: rgba(254, 84, 206, 0.5);
+ }
+ body{
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+ }
+ *{
+    margin: 0;
+    padding: 0;
+ }

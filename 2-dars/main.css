@@ -1,0 +1,21 @@
+h1{
+    color: red  ;
+}
+p{
+    font-size: 18px;
+}
+.kr{
+    color: gold;
+}
+#id{
+    color: green;
+    font-weight: bold;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+h2, .k{
+    color: blueviolet;
+    background-color: black;
+}
